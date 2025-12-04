@@ -30,20 +30,18 @@ This directory contains my Manual Testing portfolio, structured in a professiona
 
 ## 📂 Structure
 
-story/ → User Stories used as the foundation for testing
-
-test-plan/ → High-level Test Plans
-test-cases/ → Complete Test Cases
-test-report/ → Execution Reports
-bug-reports/ → Documented Bugs with Steps, Expected, and Actual Results
+- **story/** → User Stories used as the foundation for testing
+- **test-plan/** → High-level Test Plans
+- **test-cases/** → Complete Test Cases
+- **test-report/** → Execution Reports
+- **bug-reports/** → Documented Bugs with Steps, Expected, and Actual Results
 Each item includes versions in Portuguese (pt-BR) and English (en-US).
 
 ## 🎯 Purpose
 Showcase my ability to:
-
-Analyze requirements
-Create test strategies and scenarios
-Write clear and complete test cases
-Execute functional tests
-Report defects clearly and objectively
-Produce professional QA documentation
+- Analyze requirements
+- Create test strategies and scenarios
+- Write clear and complete test cases
+- Execute functional tests
+- Report defects clearly and objectively
+- Produce professional QA documentation
