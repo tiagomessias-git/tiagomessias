@@ -1,8 +1,7 @@
 # 📘 Manual Testing Repository  
 _Professional Manual QA Portfolio_
 
-This repository contains my complete Manual QA portfolio, following real industry standards and documentation practices.  
-All files are organized into structured folders for clarity and professional presentation.
+This repository contains my complete Manual QA portfolio, structured with real-world documentation and based on the testing workflow used in enterprise environments.
 
 ---
 
@@ -26,7 +25,7 @@ manual-testing/
 ├── bug-reports/
 │   └── en-us/
 │
-├── rca/   ← Root Cause Analysis
+├── rca/
 │   └── en-us/
 │
 └── README.md
@@ -36,37 +35,73 @@ manual-testing/
 
 ## 🎯 Purpose of This Repository
 
-This repository showcases my capabilities as a Manual QA, including:
+This repository demonstrates my full manual QA skillset, including:
 
-- Requirement analysis (User Stories)  
-- Test strategy creation (Test Plan)  
-- Writing clear and detailed Test Cases  
-- Performing functional test execution (Test Report)  
-- Logging defects professionally (Bug Reports)  
-- Identifying failure origins and preventing recurrence (Root Cause Analysis – RCA)
+- Requirement analysis (User Stories)
+- Test strategy definition
+- Writing detailed and structured Test Cases
+- Executing tests in different environments
+- Reporting defects clearly and objectively
+- Performing Root Cause Analysis (RCA)
+
+---
+
+## 🧪 Testing Workflow
+
+My documentation follows the real testing flow used in my company:
+
+### **1️⃣ Dry Test — DEV Environment**
+Low-level validation performed during early development.  
+Purpose:
+- Validate initial implementation  
+- Check basic functional behaviors  
+- Identify breaking issues early (pre-QA checks)
+
+Artifacts produced:
+- Initial notes (if needed)
+- Early bug reports
+
+---
+
+### **2️⃣ System Test — STAGE Environment**
+Full functional validation of the feature.  
+Purpose:
+- Verify end-to-end functionality
+- Validate acceptance criteria
+- Execute all test cases
+- Ensure system stability before release
+
+Artifacts produced:
+- Test Plan
+- Test Cases
+- Test Execution Report
+- Bug Reports
+- RCA (if major issues happen)
 
 ---
 
 ## 🧩 Root Cause Analysis (RCA)
 
-The **/rca** directory contains structured analyses using methodologies such as:
+Located in `/rca/en-us/`, these documents use professional RCA methods such as:
 
 - 5 Whys  
-- Ishikawa Diagram  
-- Impact Assessment  
-- Preventive & Corrective Actions  
+- Fishbone Diagram (Ishikawa)  
+- Corrective & Preventive Actions (CAPA)  
+- Impact and Severity Analysis  
 
-These documents demonstrate my ability to go beyond the surface issue, investigate the real cause, and propose improvements for product and process quality.
+RCA proves my ability to identify systemic problems and propose improvements.
 
 ---
 
-## 🛠 Tools & Skills Demonstrated
+## 🛠 Skills Demonstrated
 
-- Markdown documentation  
-- Test design techniques  
-- Defect lifecycle management  
-- RCA methodologies  
-- Git and GitHub for version control  
+- Test design techniques (ECP, BVA, scenario, positive/negative)
+- Functional manual testing
+- Documentation in English
+- Experience with STAGE + DEV environments
+- Jira (Story, Test Plan, Test Case, Test Execution – Xray)
+- Defect lifecycle and prioritization
+- Git & GitHub for professional portfolio
 
 ---
 
