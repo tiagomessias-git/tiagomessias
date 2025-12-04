@@ -1,7 +1,36 @@
 # 📘 Manual Testing Repository  
 _Professional Manual QA Portfolio_
 
-This repository contains my complete Manual QA portfolio, structured with real-world documentation and based on the testing workflow used in enterprise environments.
+This repository contains my complete Manual QA portfolio, structured with realistic documentation and aligned with the testing workflow used in corporate environments.
+
+The project represented here was developed during my work at CI&T, a company headquartered in Campinas, Brazil, yet globally recognized and operating across multiple countries.
+In this context, I supported an international LATAM client, serving as the sole QA Tester on the team and directly responsible for ensuring product quality.
+
+I collaborated with a multidisciplinary team composed of:
+
+5 Developers
+
+1 Tech Lead
+
+1 Business Analyst (BA)
+
+1 Scrum Master (SM)
+
+1 SQA (responsible for quality audits)
+
+2 Product Owners (POs)
+
+This experience strengthened my ability to:
+
+Analyze requirements with precision
+
+Define complete and effective test strategies
+
+Execute tests across multiple environments (DEV, STAGE)
+
+Produce clear, objective, and auditable documentation
+
+Work collaboratively with multinational teams
 
 ---
 
