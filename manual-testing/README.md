@@ -22,9 +22,6 @@ manual-testing/
     └── TC003_association.md
     └── TC004_data_lake.md
 │
-├── test-report/
-│   └── en-us/
-│
 ├── bug-reports/
 │   └── en-us/
 │
