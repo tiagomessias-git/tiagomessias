@@ -11,7 +11,7 @@ This repository contains my complete Manual QA portfolio, structured with real-w
 manual-testing/
 │
 ├── story/
-│   └── en-us/
+│   └── US001_campaign-field.md
 │
 ├── test-plan/
 │   └── en-us/
