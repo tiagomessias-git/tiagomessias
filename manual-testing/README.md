@@ -80,6 +80,29 @@ Artifacts produced:
 
 ---
 
+---
+## 📷 Importance of Test Evidence
+
+Test evidence is a critical part of the QA process. It ensures transparency, traceability, and reliability of the work performed. Well-documented evidence allows teams to:
+
+* **Validate test results objectively**
+  Screenshots, logs, and videos prove exactly what happened during execution.
+
+* **Support defect reporting**
+  Clear evidence accelerates debugging and prevents misunderstandings between QA, Dev, and Product.
+
+* **Ensure accountability and auditability**
+  Evidence creates a documented history of each test performed, essential for compliance and quality audits.
+
+* **Improve collaboration**
+  Developers and analysts can easily reproduce scenarios using visual and written references.
+
+* **Strengthen delivery confidence**
+  Stakeholders trust results when they can see what was executed and how it behaved.
+
+This repository includes consistent evidence for each executed test (when applicable), following best practices of professional QA teams.
+
+---
 ## 🧩 Root Cause Analysis (RCA)
 
 Located in `/rca/en-us/`, these documents use professional RCA methods such as:
