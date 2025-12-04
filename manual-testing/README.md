@@ -4,7 +4,7 @@ Este diretório contém meu portfólio de **Testes Manuais**, estruturado em for
 
 ## 📂 Estrutura
 
-- **stories/** → User Stories utilizadas como base dos testes  
+- **story/** → User Stories utilizadas como base dos testes  
 - **test-plan/** → Planos de Teste de alto nível  
 - **test-cases/** → Casos de teste completos  
 - **test-report/** → Relatórios de execução  
