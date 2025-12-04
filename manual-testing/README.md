@@ -78,7 +78,6 @@ Artifacts produced:
 - Bug Reports
 - RCA (if major issues happen)
 
-
 ---
 ## 📷 Importance of Test Evidence
 
