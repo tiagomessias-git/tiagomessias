@@ -8,27 +8,19 @@ In this context, I supported an international LATAM client, serving as the sole 
 
 I collaborated with a multidisciplinary team composed of:
 
-5 Developers
-
-1 Tech Lead
-
-1 Business Analyst (BA)
-
-1 Scrum Master (SM)
-
-1 SQA (responsible for quality audits)
-
-2 Product Owners (POs)
+- 5 Developers
+- 1 Tech Lead
+- 1 Business Analyst (BA)
+- 1 Scrum Master (SM)
+- 1 SQA (responsible for quality audits)
+- 2 Product Owners (POs)
 
 This experience strengthened my ability to:
 
-Analyze requirements with precision
-
-Define complete and effective test strategies
-
-Execute tests across multiple environments (DEV, STAGE)
-
-Produce clear, objective, and auditable documentation
+ - Analyze requirements with precision
+ - efine complete and effective test strategies
+ - Execute tests across multiple environments (DEV, STAGE)
+ - Produce clear, objective, and auditable documentation
 
 Work collaboratively with multinational teams
 
