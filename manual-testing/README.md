@@ -1,47 +1,78 @@
-# 📘 Manual Testing Repository
+# 📘 Manual Testing Repository  
+_Professional Manual QA Portfolio_
 
-Este diretório contém meu portfólio de **Testes Manuais**, estruturado em formato profissional, seguindo práticas reais de mercado, com base em atividades de QA em ambiente corporativo.
+This repository contains my complete Manual QA portfolio, following real industry standards and documentation practices.  
+All files are organized into structured folders for clarity and professional presentation.
 
-## 📂 Estrutura
+---
 
-- **story/** → User Stories utilizadas como base dos testes  
-- **test-plan/** → Planos de Teste de alto nível  
-- **test-cases/** → Casos de teste completos  
-- **test-report/** → Relatórios de execução  
-- **bug-reports/** → Bugs documentados com Steps, Expected e Actual Result  
+## 📂 Repository Structure
 
-Cada item tem versões em **português (pt-BR)** e **inglês (en-US)**.
+```
+manual-testing/
+│
+├── story/
+│   └── en-us/
+│
+├── test-plan/
+│   └── en-us/
+│
+├── test-cases/
+│   └── en-us/
+│
+├── test-report/
+│   └── en-us/
+│
+├── bug-reports/
+│   └── en-us/
+│
+├── rca/   ← Root Cause Analysis
+│   └── en-us/
+│
+└── README.md
+```
 
-## 🎯 Objetivo
+---
 
-Demonstrar minha capacidade de:
-- Analisar requisitos
-- Criar estratégias e cenários de teste
-- Escrever casos de teste claros e completos
-- Executar testes funcionais
-- Registrar defeitos de forma clara e objetiva
-- Criar documentação profissional
+## 🎯 Purpose of This Repository
 
+This repository showcases my capabilities as a Manual QA, including:
 
+- Requirement analysis (User Stories)  
+- Test strategy creation (Test Plan)  
+- Writing clear and detailed Test Cases  
+- Performing functional test execution (Test Report)  
+- Logging defects professionally (Bug Reports)  
+- Identifying failure origins and preventing recurrence (Root Cause Analysis – RCA)
 
-# 📘 Manual Testing Repository
+---
 
-This directory contains my Manual Testing portfolio, structured in a professional format and following real-world QA practices commonly used in corporate environments.
+## 🧩 Root Cause Analysis (RCA)
 
-## 📂 Structure
+The **/rca** directory contains structured analyses using methodologies such as:
 
-- **story/** → User Stories used as the foundation for testing
-- **test-plan/** → High-level Test Plans
-- **test-cases/** → Complete Test Cases
-- **test-report/** → Execution Reports
-- **bug-reports/** → Documented Bugs with Steps, Expected, and Actual Results
-Each item includes versions in Portuguese (pt-BR) and English (en-US).
+- 5 Whys  
+- Ishikawa Diagram  
+- Impact Assessment  
+- Preventive & Corrective Actions  
 
-## 🎯 Purpose
-Showcase my ability to:
-- Analyze requirements
-- Create test strategies and scenarios
-- Write clear and complete test cases
-- Execute functional tests
-- Report defects clearly and objectively
-- Produce professional QA documentation
+These documents demonstrate my ability to go beyond the surface issue, investigate the real cause, and propose improvements for product and process quality.
+
+---
+
+## 🛠 Tools & Skills Demonstrated
+
+- Markdown documentation  
+- Test design techniques  
+- Defect lifecycle management  
+- RCA methodologies  
+- Git and GitHub for version control  
+
+---
+
+## 👤 Author
+
+**Tiago Henrique Messias**  
+Manual QA | QA Engineer in Progress  
+
+---
