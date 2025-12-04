@@ -3,6 +3,8 @@ _Professional Manual QA Portfolio_
 
 This repository contains my complete Manual QA portfolio, structured with realistic documentation and aligned with the testing workflow used in corporate environments.
 
+Work collaboratively with multinational teams
+
 The project represented here was developed during my work at CI&T, a company headquartered in Campinas, Brazil, yet globally recognized and operating across multiple countries.
 In this context, I supported an international LATAM client, serving as the sole QA Tester on the team and directly responsible for ensuring product quality.
 
@@ -21,8 +23,6 @@ This experience strengthened my ability to:
  - efine complete and effective test strategies
  - Execute tests across multiple environments (DEV, STAGE)
  - Produce clear, objective, and auditable documentation
-
-Work collaboratively with multinational teams
 
 ---
 
