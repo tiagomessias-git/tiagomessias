@@ -1,105 +1,103 @@
-# tiagomessias
-# 👨‍💻 Tiago Henrique Messias
+👨‍💻 Manual QA and Test Automation Portfolio (Cypress | API | Web)
 
-### **Portfólio de QA Manual e Automação de Testes (Cypress | API | Web)**
+Welcome to my portfolio! I am a QA Analyst with experience in functional testing, automation, CI/CD pipelines, technical documentation, and end-to-end software quality.
 
-Bem-vindo ao meu portfólio!
-Sou **Analista de Testes (QA)** com experiência em testes funcionais, automação, pipelines CI/CD, documentação técnica e qualidade de software ponta a ponta.
+Here you will find my practical projects in manual testing, Cypress automation, API testing, and much more.
 
-Aqui você encontra meus projetos práticos de **testes manuais**, **automação com Cypress**, **testes de API**, e muito mais.
+🚀 About Me
 
----
+Manual QA and Automation
 
-## 🚀 Sobre mim
+Experience with Cypress, Postman, Git, Bitbucket, and GitHub
 
-* QA Manual e Automação
-* Experiência com Cypress, Postman, Git, Bitbucket e GitHub
-* Criação de cenários, planos de teste, evidências e relatórios
-* Execução de testes funcionais, regressão e API
-* Vivência com pipelines e integrações contínuas
-* Focado em organização, qualidade e eficiência
-* Aprendizado contínuo e paixão por resolver problemas
+Creation of test scenarios, test plans, test evidence, and reports
 
----
+Execution of functional, regression, and API tests
 
-## 🧪 Tecnologias e Ferramentas
+Experience with pipelines and continuous integrations
 
-* **Cypress** (UI e API Testing)
-* **Postman / Newman**
-* **Git & GitHub**
-* **Bitbucket**
-* **CI/CD (conceitual)**
-* **JavaScript / Node.js**
-* **Testes Manuais & Estratégia de Teste**
+Focused on organization, quality, and efficiency
 
----
+Continuous learning and a passion for problem-solving
 
-## 📂 Estrutura do Portfólio
+🧪 Technologies & Tools
 
-* `manual-testing/` → Casos de teste, planos, relatórios
-* `automation-cypress/` → Projetos automatizados
-* `api-testing/` → Testes de API (Postman)
-* `bug-reports/` → Modelos reais de defeitos
-* `docs/` → Documentação de processo, checklist, estratégias
+Cypress (UI and API Testing)
 
----
+Postman / Newman
 
-## 🌐 Projetos Destacados
+Git & GitHub
 
-### **🔹 Automação UI com Cypress**
+Bitbucket
 
-* Testes de login
-* Validação de formulários
-* Mocks e interceptações
-* Testes de regressão
-* Execução paralela (conceito)
+CI/CD (conceptual)
 
-### **🔹 Testes de API**
+JavaScript / Node.js
 
-* Requests GET, POST, PUT, DELETE
-* Validação de status, headers e body
-* Auth (Token / Bearer)
-* Coleções completas em Postman
+Manual Testing & Test Strategy
 
-### **🔹 Testes Manuais**
+📂 Portfolio Structure
 
-* Cenários estruturados
-* Evidências completas
-* Planos de testes funcionais
+manual-testing/ → Test cases, test plans, reports
 
----
+automation-cypress/ → Automated projects
 
-## 🏗 Como rodar o projeto Cypress
+api-testing/ → API tests (Postman)
 
-```bash
+bug-reports/ → Real bug examples
+
+docs/ → Process documentation, checklists, strategies
+
+🌐 Highlighted Projects
+🔹 UI Automation with Cypress
+
+Login tests
+
+Form validation
+
+Mocks and intercepts
+
+Regression tests
+
+Parallel execution (conceptual)
+
+🔹 API Testing
+
+GET, POST, PUT, DELETE requests
+
+Validation of status, headers, and body
+
+Auth (Token / Bearer)
+
+Complete Postman collections
+
+🔹 Manual Testing
+
+Structured test scenarios
+
+Complete evidence
+
+Functional test plans
+
+🏗 How to Run Cypress Project
 npm install
 npx cypress open
-```
 
-Ou modo headless:
 
-```bash
+Headless mode:
+
 npx cypress run
-```
 
----
+📊 Quality is a Process
 
-## 📊 Qualidade é Processo
+My focus is to:
 
-Meu foco é:
+Deliver functional and secure software
 
-* Entregar software funcional e seguro
-* Prevenir falhas antes de chegarem ao cliente
-* Criar testes eficientes e sustentáveis
-* Automatizar onde faz sentido
-* Documentar de forma clara e objetiva
+Prevent defects before they reach the client
 
----
+Create efficient and sustainable tests
 
-## 📞 Contato
+Automate where it makes sense
 
-**LinkedIn:** [https://www.linkedin.com](https://www.linkedin.com)
-**E-mail:** (adicione aqui seu melhor e-mail profissional)
-
-Se quiser trocar uma ideia sobre QA, automação, carreira ou projetos, estou à disposição!
-
+Document clearly and objectively
