@@ -65,27 +65,22 @@ Here you will find my practical projects in **manual testing**, **Cypress automa
 
 ---
 
-## 🏗 How to Run Cypress Project
-
-```bash
-npm install
-npx cypress open
-```
-
-Headless mode:
-
-```bash
-npx cypress run
-```
-
----
-
 ## 📊 Quality is a Process
 
 My focus is to:
 
-* Deliver functional and secure software
-* Prevent defects before they reach the client
-* Create efficient and sustainable tests
+* Deliver functional and reliable software
+* Prevent defects before reaching production
+* Create efficient and maintainable tests
 * Automate where it makes sense
 * Document clearly and objectively
+
+---
+
+## 📷 Importance of Test Evidence
+
+Test evidence is a critical part of the QA process. It ensures transparency, traceability, and reliability of the work performed. Well-documented evidence allows teams to:
+
+* **Validate test results objectively**
+* **Support defect reporting**
+* **Ensure accountability and auditability**
