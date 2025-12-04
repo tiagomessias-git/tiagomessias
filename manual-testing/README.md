@@ -16,8 +16,7 @@ I collaborated with a multidisciplinary team composed of:
 - 1 SQA (responsible for quality audits)
 - 2 Product Owners (POs)
 - A dedicated UX/UI Design team responsible for building desktop and mobile prototypes, components and user flows using Figma
-
-Additionally:
+- Additionally:
 I validated requirements, user journeys, component behavior, layout consistency and UI constraints directly in Figma — for both desktop and mobile versions — before creating test plans, scenarios and cases.
 
 This experience strengthened my ability to:
