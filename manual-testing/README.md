@@ -14,10 +14,13 @@ manual-testing/
 │   └── US001_campaign-field.md
 │
 ├── test-plan/
-│   └── en-us/
+│   └── TP001_campaign-feature-plan.md
 │
 ├── test-cases/
-│   └── en-us/
+│   └── TC001_backend_field.md
+    └── TC002_interaction_tracking.md
+    └── TC003_association.md
+    └── TC004_data_lake.md
 │
 ├── test-report/
 │   └── en-us/
